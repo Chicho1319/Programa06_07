@@ -28,6 +28,7 @@ namespace Programa06_07
             fabricacion = Convert.ToInt32(dato);
 
             // Verificamos las opciones
+            ///Cambios
 
             if (opcion == 1)
             {
