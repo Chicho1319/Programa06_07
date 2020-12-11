@@ -38,6 +38,7 @@ namespace Programa06_07
                     Console.WriteLine("El impuesto del auto es 5%");
                 if (fabricacion >= 2000)
                     Console.WriteLine("El impuesto del auto es 3%");
+                Console.WriteLine("Nuevo Cambii");
             }
 
             if (opcion == 2)
